@@ -34,7 +34,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 ## Installation
 
 ```sh
-> git clone https://github.com/kaustubh0201/Task-Manager.git
+> git clone https://github.com/kaustubh0201/Store-API.git
 > cd Task-Manager
 > npm install
 ```
